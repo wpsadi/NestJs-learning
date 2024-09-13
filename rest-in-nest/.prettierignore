@@ -1,0 +1,9 @@
+# Ignore all files in the src directory
+src/**
+prisma/**
+
+# Ignore a specific file
+path/to/your/file.js
+
+# Ignore files with specific extensions
+*.css
